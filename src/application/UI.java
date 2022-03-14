@@ -19,5 +19,6 @@ public class UI {
 		if (piece == null) {
 			System.out.print("- ");
 		}
+		else System.out.print(piece+" ");
 	}
 }
